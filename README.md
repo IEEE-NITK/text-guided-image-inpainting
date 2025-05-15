@@ -2,6 +2,9 @@
 
 A deep learning project inspired by the research paper ["MMFL: Multimodal Fusion Learning for Text-Guided Image Inpainting"](https://dl.acm.org/doi/10.1145/3394171.3413982), enabling users to restore and fill images guided by natural language descriptions. This repository provides an interactive interface for text-guided image inpainting, allowing users to mask regions and describe how they should be filled in.
 
+![C04_TBOS](https://github.com/user-attachments/assets/b5d1fc98-56fd-465b-946c-e2881f3c33af)
+![image](https://github.com/user-attachments/assets/956ca0e7-409e-4ae4-aded-194cf78d5899)
+
 ---
 
 ## Table of Contents
